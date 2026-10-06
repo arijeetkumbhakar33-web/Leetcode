@@ -8,6 +8,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/arijeetkumbhakar33-web/Leetcode/tree/master/0007-reverse-integer) |
 | [0877-stone-game](https://github.com/arijeetkumbhakar33-web/Leetcode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
